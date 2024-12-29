@@ -1,1 +1,2 @@
 # SECJ1013-PROGRAMMING-TECHNIQUE-1
+This fundamental course equips students with problem-solving techniques using a structured approach. Students will develop programs in C++ to solve simple to moderate problems. Topics include preprocessor directives, data types, input/output, control structures (sequential, selection, loops), functions, arrays, file operations, pointers, and structured data types.
